@@ -168,6 +168,14 @@ After processing the query, the assistant retrieves the most relevant research p
 
 ---
 
+##  Acknowledgement
+
+This project was developed as part of my **Summer Internship Programme** at **Coding Blocks School Of Technology (CBSOT)**.
+
+I sincerely thank my mentors and the CBSOT team for their continuous guidance, valuable feedback, and support throughout the project.
+
+---
+
 ## Author
 
 **Devika Dinesh**
