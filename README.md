@@ -95,9 +95,9 @@ Display Results
 ```
 AI-Research-Paper-Assistant/
 │
-├── AI_Research_Paper_Assistant_Notebook.ipynb
+├── AI_Research_Paper_Assistant.ipynb
 ├── README.md
-└── Requirements.txt
+└── requirements.txt
 ```
 
 ---
@@ -176,4 +176,4 @@ After processing the query, the assistant retrieves the most relevant research p
 
 MS in Artificial Intelligence & Data Science
 
-ABV-IIITM Gwalior
+ABV-Indian Institute of Information Technology and Management, Gwalior
