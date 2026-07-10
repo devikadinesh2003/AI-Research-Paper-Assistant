@@ -21,6 +21,19 @@ Researchers often spend a lot of time reading multiple research papers to find r
 
 ---
 
+## Dataset
+
+This project uses the **ML-ArXiv-Papers** dataset available on the Hugging Face Hub.
+
+- **Dataset:** CShorten/ML-ArXiv-Papers
+- **Source:** https://huggingface.co/datasets/CShorten/ML-ArXiv-Papers
+- **Size:** Approximately 117,000 machine learning research papers
+- **Fields Used:** `title`, `abstract`
+
+The dataset is automatically downloaded from the Hugging Face Hub when the notebook is executed.
+
+---
+
 ## Tech Stack
 
 - Python
