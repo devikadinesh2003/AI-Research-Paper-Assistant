@@ -135,9 +135,17 @@ Run all notebook cells and launch the Gradio interface.
 ---
 ## Interface
 
-The application provides an interactive interface for searching research papers, retrieving the most relevant results, generating summaries, and extracting keywords.
+The application provides a simple interface where users can enter a research query and specify the number of papers to retrieve.
 
-![Interface](Screenshots/interface.png)
+![Interface](assets/interface.png)
+
+---
+
+## Search Results
+
+After processing the query, the assistant retrieves the most relevant research papers, along with similarity scores, summaries, and extracted keywords.
+
+![Search Results](assets/results.png)
 
 ---
 
