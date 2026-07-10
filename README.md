@@ -95,12 +95,10 @@ Display Results
 ```
 AI-Research-Paper-Assistant/
 │
-├── notebook.ipynb
+├── AI_Research_Paper_Assistant_Notebook.ipynb
 ├── README.md
-├── requirements.txt
-├── dataset/
-├── images/
-└── screenshots/
+├── Requirements.txt
+└── Images/
 ```
 
 ---
