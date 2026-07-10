@@ -97,8 +97,7 @@ AI-Research-Paper-Assistant/
 │
 ├── AI_Research_Paper_Assistant_Notebook.ipynb
 ├── README.md
-├── Requirements.txt
-└── Images/
+└── Requirements.txt
 ```
 
 ---
@@ -132,6 +131,13 @@ Run all notebook cells and launch the Gradio interface.
 - Reinforcement Learning for Robotics
 - Explain Graph Neural Networks
 - Healthcare AI
+
+---
+## Interface
+
+The application provides an interactive interface for searching research papers, retrieving the most relevant results, generating summaries, and extracting keywords.
+
+![Interface](Screenshots/interface.png)
 
 ---
 
