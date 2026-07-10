@@ -3,6 +3,11 @@
 An AI-powered research assistant that performs semantic search over research papers, generates summaries, extracts keywords, and presents results through an interactive web interface.
 
 ---
+## Project Overview
+
+Researchers often spend a lot of time reading multiple research papers to find relevant information. This project simplifies that process by allowing users to ask questions in natural language. The system searches research papers based on meaning, retrieves the most relevant papers, summarizes them, extracts important keywords, and presents the results through an interactive web interface.
+
+---
 
 ## Features
 
