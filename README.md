@@ -105,7 +105,7 @@ AI-Research-Paper-Assistant/
 ## Installation
 
 ```bash
-git clone https://github.com/yourusername/AI-Research-Paper-Assistant.git
+git clone https://github.com/devikadinesh2003/AI-Research-Paper-Assistant.git
 
 cd AI-Research-Paper-Assistant
 
