@@ -1,7 +1,5 @@
 # AI Research Paper Assistant
 
-An AI-powered research assistant that performs semantic search over research papers, generates summaries, extracts keywords, and presents results through an interactive web interface.
-
 ---
 ## Project Overview
 
