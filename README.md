@@ -137,7 +137,7 @@ Run all notebook cells and launch the Gradio interface.
 
 The application provides a simple interface where users can enter a research query and specify the number of papers to retrieve.
 
-![Interface](assets/interface.png)
+![Interface](Assets/interface.png)
 
 ---
 
@@ -145,7 +145,7 @@ The application provides a simple interface where users can enter a research que
 
 After processing the query, the assistant retrieves the most relevant research papers, along with similarity scores, summaries, and extracted keywords.
 
-![Search Results](assets/results.png)
+![Search Results](Assets/results.png)
 
 ---
 
